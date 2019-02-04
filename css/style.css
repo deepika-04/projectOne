@@ -17,6 +17,7 @@ body{
 ul{
     margin: 0;
     padding: 0;
+    display: flex;
 }
 
 .button_1{
@@ -70,13 +71,11 @@ header nav{
 }
 
 header .highlight, header .current a{
-    color: #e8491d;
-    font-weight: bold;
+    color: #e8491d;  
 }
 
 header a:hover{
-    color: #ffffff;
-    font-weight: bold;
+    color: #e8491d;;
 }
 
 /* showcase */
